@@ -44,4 +44,3 @@ Git | GitHub | GitHub Actions
 ](https://github-readme-stats-aryan-gore.vercel.app)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-github stats are sometimes shown and not sometimes only my forked one is showl always can i create my own stats
