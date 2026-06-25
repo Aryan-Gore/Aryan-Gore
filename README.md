@@ -62,6 +62,8 @@ Git | GitHub | GitHub Actions
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Gore&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github-readme-stats-aryan-gore.vercel.app)
 
+![snake](https://raw.githubusercontent.com/Aryan-Gore/Aryan-Gore/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## ✍️ Random Dev Quote
